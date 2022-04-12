@@ -1,0 +1,27 @@
+{
+  "name": "practica_nodejs",
+  "version": "0.1.0",
+  "description": "Una práctica de node js siguiendo un curso de platzi.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brahAraya/practica_nodejs.git"
+  },
+  "keywords": [
+    "practica",
+    "javascript",
+    "js",
+    "nodejs",
+    "server",
+    "chat"
+  ],
+  "author": "Brahian Araya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brahAraya/practica_nodejs/issues"
+  },
+  "homepage": "https://github.com/brahAraya/practica_nodejs#readme"
+}
